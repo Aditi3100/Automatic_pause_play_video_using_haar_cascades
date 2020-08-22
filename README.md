@@ -1,4 +1,4 @@
-#Automatic pausing and playing of Video Player
+# Automatic pausing and playing of Video Player
 
 The code is supposed to be run before playing any video on any player which has the pause/play feature associated to the spacebar. For example: VLC Media player, YouTube and many more.
 
